@@ -1,7 +1,7 @@
 # Command Space Tech Task
 
 # WebApp Link
-- [Movies webapp L](https://firestore-3af86.web.app/#/)
+- [Movies Search WebApp](https://firestore-3af86.web.app/#/)
 
 ## Packages used in Development:
 
